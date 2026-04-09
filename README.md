@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi there 👋 Ryokaです！
+# Ryokaです！
 
 日常のちょっとした"頼みごと"から繋がるSNS型マッチングアプリ **たのメイト** を開発中です。
 非エンジニアからスタートして、プロダクト開発とエンジニアリングの両方を学んでいます。
@@ -42,6 +42,3 @@ Here are some ideas to get you started:
 
 - [X（Twitter）](https://x.com/Ryoka_om)
 
----
-
-> *つくることで、学ぶ。*
